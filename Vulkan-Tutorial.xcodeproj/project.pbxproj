@@ -53,7 +53,6 @@
 		E692CE38260599A000E1D774 /* Vulkan-Tutorial.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Vulkan-Tutorial.entitlements"; sourceTree = "<group>"; };
 		E695A1EB26059C4A0051837F /* SwapChain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapChain.cpp; sourceTree = "<group>"; };
 		E695A1EC26059C4A0051837F /* RenderTarget.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RenderTarget.cpp; sourceTree = "<group>"; };
-		E695A1ED26059C4A0051837F /* CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
 		E695A1EE26059C4A0051837F /* GraphicsPipeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphicsPipeline.h; sourceTree = "<group>"; };
 		E695A1EF26059C4A0051837F /* Tools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tools.h; sourceTree = "<group>"; };
 		E695A1F026059C4A0051837F /* ObjectRenderer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ObjectRenderer.cpp; sourceTree = "<group>"; };
@@ -130,7 +129,6 @@
 				E695A1FC26059C4A0051837F /* Assets */,
 				E695A1FA26059C4A0051837F /* Camera.cpp */,
 				E695A20026059C4A0051837F /* Camera.h */,
-				E695A1ED26059C4A0051837F /* CMakeLists.txt */,
 				E695A1F526059C4A0051837F /* Descriptor.cpp */,
 				E695A20126059C4A0051837F /* Descriptor.h */,
 				E695A1F726059C4A0051837F /* Device.cpp */,
